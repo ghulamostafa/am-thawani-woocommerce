@@ -1,4 +1,7 @@
 # Introduction
+
+> For support, contact: [WhatsApp 7733 1260](http://wa.me/96877331260)
+
 Welcome to the Thawani WooCommerce Payment Gateway plugin!
 
 This plugin offers a seamless and secure way for WooCommerce merchants to accept payments through Thawani, the leading payment platform in Oman. Designed with flexibility and ease of use in mind, it leverages the latest WordPress Blocks technology to provide an intuitive setup and checkout experience.
